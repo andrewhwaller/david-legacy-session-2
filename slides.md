@@ -187,10 +187,44 @@ Samuel then set out and went to Ramah.
 Now the spirit of the <sc>Lord</sc> departed from Saul, and an evil spirit from the <sc>Lord</sc> tormented him.
 
 ---
+layout: quote
+---
+
+# 1 Samuel 16:17--23
+So Saul said to his servants, “Provide for me someone who can play well, and bring him to me.”
+One of the young men answered, “I have seen a son of Jesse the Bethlehemite who is skillful in playing, a man of valor, a warrior, prudent in speech, and a man of good presence; and the <sc>Lord</sc> is with him.”
+So Saul sent messengers to Jesse, and said, “Send me your son David who is with the sheep.” ...
+And David came to Saul, and entered his service. Saul loved him greatly, and he became his armor-bearer.
+
+# 1 Samuel 17:55--58
+When Saul saw David go out against the Philistine, he said to Abner, the commander of the army, “Abner, whose son is this young man?”
+Abner said, “As your soul lives, O king, I do not know.” ...
+On David’s return from killing the Philistine, Abner took him and brought him before Saul, with the head of the Philistine in his hand.
+Saul said to him, “Whose son are you, young man?” And David answered, “I am the son of your servant Jesse the Bethlehemite.”
+
+<!--
+* It seems like there may be two introductions to David that are being spliced together.
+  * David has an origin story as the anointed replacement for Saul who then enters Saul's court as a Spirit-empowered musician.
+  * David then has a second introduction as a warrior who defeats Goliath (1 Sam 17:12--18).
+* When David comes before Saul to volunteer to fight Goliath, David's parentage is not discussed; thus, it is reasonable for Saul to ask who David is after the fact.
+* Nevertheless, as things stand in the canonical text, David is introduced to Saul twice.
+  * David's defeat of Goliath renders him unrecognizable to Saul.
+    * David's previous characterization as a shepherd is quickly replaced by a new characterization as the slayer of thousands.
+    * This sets the stage for the story of David's rise and his conflict with Saul.
+-->
+
+---
 layout: statement
 ---
 
 # The story of Israel's monarchy does not begin or end with David.
+
+<!--
+* The larger context of the Deuteronomistic History places David on a stage with Moses, the judges of Israel, and the armies of the nations.
+* David has almost no identity or characterization outside of this larger story.
+  * Any unique identity is denied to him: he is not David, the plucky son of Jesse, but the anointed successor to Saul the law-breaker (who happens to be David, son of Jesse).
+  * Saul is given comparatively extensive characterization, but David is not.
+-->
 
 ---
 layout: qr-code
