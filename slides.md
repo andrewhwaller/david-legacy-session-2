@@ -151,6 +151,48 @@ Then all the lords of Shechem and all Beth-millo came together, and they went an
 -->
 
 ---
+layout: quote
+---
+
+# 1 Samuel 13:13--14
+Samuel said to Saul, “You have done foolishly; you have not kept the commandment of the <sc>Lord</sc> your God, which he commanded you.
+The <sc>Lord</sc> would have established your kingdom over Israel forever, but now your kingdom will not continue; the <sc>Lord</sc> has sought out a man after his own heart; and the <sc>Lord</sc> has appointed him to be ruler over his people, because you have not kept what the <sc>Lord</sc> commanded you.”
+
+<!--
+* Notably, there's a separation between Israel's monarchy and the worship of God, i.e., the king is not in charge of cult.
+  * While the boundaries between priest and prophet get blurry at times, the sons of Aaron are the priests, not Moses or Israel's future kings.
+  * Moses's sons take roles as Levites, subordinate to the sons of Aaron.
+    * Likewise, the king is not a cultic leader.
+  * Saul's downfall is marked by his usurpation of cult, just like Gideon and Abimelech.
+    * Whereas Gideon imitates the Golden Calf incident, Saul does something somewhat more subtle. While this is not the worship of an image, it is still unlawful cult and therefore a violation of the law.
+-->
+
+---
+layout: quote
+---
+
+# 1 Samuel 16:6--13
+When \[the sons of Jesse\] came, \[Samuel\] looked on Eliab and thought, “Surely the <sc>Lord</sc>’s anointed is now before the <sc>Lord</sc>.”
+But the <sc>Lord</sc> said to Samuel, “Do not look on his appearance or on the height of his stature, because I have rejected him; for the <sc>Lord</sc> does not see as mortals see; they look on the outward appearance, but the <sc>Lord</sc> looks on the heart.”
+Then Jesse called Abinadab, and made him pass before Samuel\.\.\.\.
+Then Jesse made Shammah pass by\.\.\.\.
+Jesse made seven of his sons pass before Samuel, and Samuel said to Jesse, “The <sc>Lord</sc> has not chosen any of these.”
+Samuel said to Jesse, “Are all your sons here?” And he said, “There remains yet the youngest, but he is keeping the sheep.”
+And Samuel said to Jesse, “Send and bring him; for we will not sit down until he comes here.”
+He sent and brought him in.
+Now he was ruddy, and had beautiful eyes, and was handsome.
+The <sc>Lord</sc> said, “Rise and anoint him; for this is the one.”
+Then Samuel took the horn of oil, and anointed him in the presence of his brothers; and the spirit of the <sc>Lord</sc> came mightily upon <span v-mark="{ color: '#f72f47', type: 'circle', strokeWidth: 5 }">David</span> from that day forward.
+Samuel then set out and went to Ramah.
+Now the spirit of the <sc>Lord</sc> departed from Saul, and an evil spirit from the <sc>Lord</sc> tormented him.
+
+---
+layout: statement
+---
+
+# The story of Israel's monarchy does not begin or end with David.
+
+---
 layout: qr-code
 ---
 # QR code for this presentation
