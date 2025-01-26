@@ -117,7 +117,7 @@ One of your own community you may set as king over you; you are not permitted to
 Even so, he must not acquire many horses for himself, or return the people to Egypt in order to acquire more horses, since the <sc>Lord</sc> has said to you, “You must never return that way again.”
 And he must not acquire many wives for himself, or else his heart will turn away; also silver and gold he must not acquire in great quantity for himself.
 When he has taken the throne of his kingdom, he shall have a copy of this law written for him in the presence of the levitical priests.
-It shall remain with him and he shall read in it all the days of his life, so that he may learn to fear the <sc></sc> his God, diligently observing all the words of this law and these statutes, neither exalting himself above other members of the community nor turning aside from the commandment, either to the right or to the left, so that he and his descendants may reign long over his kingdom in Israel.
+It shall remain with him and he shall read in it all the days of his life, so that he may learn to fear the <sc>Lord</sc> his God, diligently observing all the words of this law and these statutes, neither exalting himself above other members of the community nor turning aside from the commandment, either to the right or to the left, so that he and his descendants may reign long over his kingdom in Israel.
 
 ---
 layout: quote
